@@ -56,9 +56,9 @@ var projects = {
 			"date worked": "Oct, 2013 - Dec, 2013",
 			"description": "My first Rails project. Search recipes by ingredients, ingredients are sorted from the least to the most.",
 			"image": "http://lei-clearsky.github.io/images/2.jpg",
-			"github": "http://lei-clearsky.github.io/#",
-			"demo": "http://lei-clearsky.github.io/#",
-			"progress": 90
+			"github": "https://github.com/lei-clearsky/search-recipes-app",
+			"demo": "http://powerful-wildwood-2510.herokuapp.com/",
+			"progress": 100
 		},
 		{
 			"title": "Mu Theta At Large",
@@ -75,7 +75,7 @@ var projects = {
 			"description": "A drag and drop FIFA soccer game. Drag and drop the coutry icons and output and retrive result through a generated json object.",
 			"image": "http://lei-clearsky.github.io/images/4.jpg",
 			"github": "https://github.com/lei-clearsky/WWC-project-fifa",
-			"progress": 90
+			"progress": 100
 		},
 		{
 			"title": "WordPress Twitter Plugin",
