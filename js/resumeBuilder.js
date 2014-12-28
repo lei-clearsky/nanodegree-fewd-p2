@@ -82,7 +82,7 @@ var projects = {
 		{
 			"title": "Mu Theta At Large",
 			"date worked": "Jul, 2014 - Aug, 2014",
-			"description": "My first WordPress project. Redesigned a new resonsive WordPress theme and converted a flash based site to a WordPress site",
+			"description": "My first WordPress project. Redesigned a new resonsive WordPress theme and converted a flash based site",
 			"image": "http://lei-clearsky.github.io/images/3.jpg",
 			"github": "https://github.com/lei-clearsky/muthetaatlarge/tree/master/wp-content/themes/mtal",
 			"demo": "http://muthetaatlarge.org/",
