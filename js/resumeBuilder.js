@@ -97,14 +97,6 @@ var projects = {
 			"progress": 100
 		},
 		{
-			"title": "CSE WordPress Intranet",
-			"date worked": "Jul, 2014 - Sept, 2014",
-			"description": "Converted College of Saint Elizabeth website to a WordPress site with custom theme and widgets",
-			"image": "http://lei-clearsky.github.io/images/1.jpg",
-			"github": "https://github.com/lei-clearsky/wp-theme-and-plugin/tree/master/wp-content/themes/college",
-			"progress": 80
-		},
-		{
 			"title": "WordPress Twitter Plugin",
 			"date worked": "Aug, 2014 - Sept, 2014",
 			"description": "A WordPress twitter plugin. Users can input Authentication keys to display their tweets from twitter.",
@@ -119,6 +111,14 @@ var projects = {
 			"image": "http://lei-clearsky.github.io/images/6.jpg",
 			"demo": "http://www.cse.edu/",
 			"progress": 100
+		},
+		{
+			"title": "CSE WordPress Intranet",
+			"date worked": "Jul, 2014 - Sept, 2014",
+			"description": "Converted College of Saint Elizabeth website to a WordPress site with custom theme and widgets",
+			"image": "http://lei-clearsky.github.io/images/1.jpg",
+			"github": "https://github.com/lei-clearsky/wp-theme-and-plugin/tree/master/wp-content/themes/college",
+			"progress": 80
 		}
 	]
 
