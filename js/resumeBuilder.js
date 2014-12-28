@@ -44,12 +44,31 @@ work.display = function(){
 var projects = {
 	"projects": [
 		{
-			"title": "CSE WordPress Intranet",
-			"date worked": "Jul, 2014 - Sept, 2014",
-			"description": "Converted College of Saint Elizabeth website to a WordPress site with custom theme and widgets",
+			"title": "Neighborhood Map",
+			"date worked": "Dec, 2014",
+			"description": "Neighborhood Map project for Udacity Front-end Web Development Nanodegree",
 			"image": "http://lei-clearsky.github.io/images/1.jpg",
-			"github": "https://github.com/lei-clearsky/wp-theme-and-plugin/tree/master/wp-content/themes/college",
-			"progress": 80
+			"github": "https://github.com/lei-clearsky/neighborhood-map",
+			"demo": "http://lei-clearsky.github.io/temp-repo-p5/",
+			"progress": 90
+		},
+		{
+			"title": "Arcade Game",
+			"date worked": "Nov, 2014",
+			"description": "Classic arcade game clone project for Udacity Front-end Web Development Nanodegree",
+			"image": "http://lei-clearsky.github.io/images/1.jpg",
+			"github": "https://github.com/lei-clearsky/p3-arcade-game",
+			"demo": "http://lei-clearsky.github.io/p3-arcade-game/",
+			"progress": 100
+		},
+		{
+			"title": "Resume",
+			"date worked": "Oct, 2014",
+			"description": "Resume project for Udacity Front-end Web Development Nanodegree",
+			"image": "http://lei-clearsky.github.io/images/1.jpg",
+			"github": "https://github.com/lei-clearsky/nanodegree-fewd-p2",
+			"demo": "http://lei-clearsky.github.io/nanodegree-fewd-p2/",
+			"progress": 100
 		},
 		{
 			"title": "Lazy Recipe",
@@ -76,6 +95,14 @@ var projects = {
 			"image": "http://lei-clearsky.github.io/images/4.jpg",
 			"github": "https://github.com/lei-clearsky/WWC-project-fifa",
 			"progress": 100
+		},
+		{
+			"title": "CSE WordPress Intranet",
+			"date worked": "Jul, 2014 - Sept, 2014",
+			"description": "Converted College of Saint Elizabeth website to a WordPress site with custom theme and widgets",
+			"image": "http://lei-clearsky.github.io/images/1.jpg",
+			"github": "https://github.com/lei-clearsky/wp-theme-and-plugin/tree/master/wp-content/themes/college",
+			"progress": 80
 		},
 		{
 			"title": "WordPress Twitter Plugin",
@@ -142,7 +169,7 @@ var bio = {
 	"contacts": 
 		{
 			"mobile number": "000-000-0000",
-			"email": "zhuleiemail@gmail.com",
+			"email": "lei.clearsky@gmail.com",
 			"github username": "lei-clearsky",
 			"twitter handle": "@LeiZhuish",
 			"location": "New York, NY"
@@ -252,7 +279,7 @@ var polarData = [
     labelcolor: "orange"
   },
   {
-    value: 5,
+    value: 7,
     color: "#46BFBD",
     highlight: "#5AD3D1",
     label: "Javascript",
@@ -266,14 +293,14 @@ var polarData = [
     labelcolor: "yellow"
   },
   {
-    value: 5,
+    value: 6,
     color: "#949FB1",
     highlight: "#A8B3C5",
     label: "WordPress",
     labelcolor: "gray"
   },
   {
-    value: 4,
+    value: 5,
     color: "#23582b",
     highlight: "#A8B3C5",
     label: "Git",
