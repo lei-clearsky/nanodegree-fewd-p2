@@ -45,12 +45,12 @@ var projects = {
 	"projects": [
 		{
 			"title": "Neighborhood Map",
-			"date worked": "Dec, 2014",
+			"date worked": "Dec, 2014 - Jan, 2015",
 			"description": "Neighborhood Map project for Udacity Front-end Web Development Nanodegree",
 			"image": "http://lei-clearsky.github.io/images/1.jpg",
-			"github": "https://github.com/lei-clearsky/neighborhood-map",
-			"demo": "http://lei-clearsky.github.io/temp-repo-p5/",
-			"progress": 90
+			"github": "https://github.com/lei-clearsky/neighborhood-map-seperate-model",
+			"demo": "http://lei-clearsky.github.io/neighborhood-map-seperate-model/",
+			"progress": 100
 		},
 		{
 			"title": "Arcade Game",
